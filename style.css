@@ -818,7 +818,7 @@ footer {
         font-size: 0.7em;
     } 
 }
-@media screen and (max-width:415px){
+@media screen and (max-width:498px){
      .headline_greeting h2 {
         width: 65%;
         font-size: 1.5em;
